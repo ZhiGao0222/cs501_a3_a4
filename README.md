@@ -16,3 +16,4 @@ This application demonstrates a responsive UI that adapts its layout based on th
 ## AI Disclosure
 - **AI Tool Used**: Google Gemini
 - **Usage**: Assisted in resolving specific Kotlin compiler errors related to `BoxWithConstraints` scope and generic type inference in older Material 3 versions. Guided the structural implementation of the responsive logic.
+- Readme
