@@ -11,7 +11,7 @@ This application demonstrates a responsive UI that adapts its layout based on th
 ## Screenshots
 | Phone Mode (Narrow) | Tablet/Landscape Mode (Wide) |
 |---|---|
-| ![Phone Screen](screenshots4.png) | ![Tablet Screen](screenshots5.png) |
+| ![Phone Screen](screenshot4.png) | ![Tablet Screen](screenshot5.png) |
 
 ## AI Disclosure
 - **AI Tool Used**: Google Gemini
